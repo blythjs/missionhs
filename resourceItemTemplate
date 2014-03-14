@@ -1,0 +1,43 @@
+<tr>
+            <td colspan="2">
+            <hr /></td>
+        </tr>
+        <tr>
+            <td colspan="2">
+            <h3><a href="http://<<organizationWebsite>>"><<organizationName>></a></h3>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <p><<MissionStatement>></p>
+
+            <h3>Program Description</h3>
+<h4><<ProgramName>></h4>
+            <p><<ProgramDescription>></p>
+
+            <h3>Participant Requirements</h3>
+            <p><<ParticipantRequirements>></p>
+
+            <h3>Contact Info</h3>
+
+            <p><a href="mailto:<<OrganizationContactEmail>>"><<organizationContactName>></a>, <<OrganizationContactPosition/Title>><br />
+            <a href="mailto:<<SecondaryContactEmail>>"><<SecondaryContactName>></a><br />
+            <<OrganizationContactPhone>><br />
+            <<organizationAddress>><br />
+            <a href="http://<<organizationWebsite>>"><<organizationWebsite>></a><br />
+            School Contact(s): <<SchoolLiaison>></p>
+            </td>
+            <td style="padding-left: 50px;">
+            <p><strong>Population</strong><br />
+            <<PopulationServed>></p>
+
+            <p><strong>Program Areas</strong><br />
+            <<WhatProgramAreasDoYouAddress>></p>
+
+            <p><strong>Location</strong><br />
+            <<WhereAreYourServices>></p>
+
+            <p><strong>Time(s)</strong><br />
+            <<ProgramTimes>></p>
+            </td>
+        </tr>
